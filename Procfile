@@ -1,1 +1,1 @@
-web: gunicorn edxcare.wsgi --log-file -
+web: gunicorn core_api.wsgi --log-file -
