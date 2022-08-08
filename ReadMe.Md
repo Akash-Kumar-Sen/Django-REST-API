@@ -154,7 +154,7 @@ source envs/bin/activate
 
 #### 3. Clone git repository
 ```bash
-git clone "https://github.com/Akash-Kumar-Sen/EdexCare.git"
+git clone "https://github.com/Akash-Kumar-Sen/Django-REST-API.git"
 ```
 
 #### 4. Install requirements
